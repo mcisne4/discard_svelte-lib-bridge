@@ -1,0 +1,13 @@
+# Node
+node_modules
+
+# VS Code
+.vscode
+
+# PouchDB
+/db
+/log.txt
+
+# Child Repositories
+/svelte-lib
+/svelte-lib-web
